@@ -1,0 +1,16 @@
+.sub-card{
+    /* height: 8rem; */
+    /* min-width: min-content; */
+    /* width: 40%; */
+    margin: 1rem;
+    background-color: var(--second-color);
+    color:var(--main-text-color);
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: var(--lite-box-shadow);
+    .top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
